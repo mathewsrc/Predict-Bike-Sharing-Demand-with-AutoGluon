@@ -40,7 +40,7 @@ hpo_models	10	30	2	custom	0.53222
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](https://github.com/punkmic/Predict-Bike-Sharing-Demand-with-AutoGluon/blob/48e29c1c003c09aabe25c45dc9060f78c44c3611/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
