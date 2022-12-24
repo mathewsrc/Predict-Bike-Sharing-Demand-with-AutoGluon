@@ -23,18 +23,12 @@ The model did not get better by using hyperparameters optimization as expected b
 In the hyperparameter optimization as I get a better score by using models specific hyperparameters
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
+|model|num_bag_folds|num_bag_sets|num_stack_levels|models_hyperparameter_status|score|
 |--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
-
-model|num_bag_folds|num_bag_sets|num_stack_levels|models_hyperparameter_status|score
-|--|--|--|--|--|
-|initial	0	20	0	default	1.79702
-|add_features	0	20	0	default	0.57313
-|hpo	10	30	2	default	0.58625
-hpo_models	10	30	2	custom	0.53222
+|initial|0|20|0|default|1.79702|
+|add_features|0|20|0|default|0.57313|
+|hpo|10|30|2|custom|0.58625|
+|hpo_models|10|30|2|custom|0.53222|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
@@ -46,7 +40,7 @@ TODO: Replace the image below with your own.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](https://github.com/punkmic/Predict-Bike-Sharing-Demand-with-AutoGluon/blob/b4a2f9786032388b39c5a2b668b67f1ed73dacb8/model_test_score.png)
 
 ## Summary
 TODO: Add your explanation
