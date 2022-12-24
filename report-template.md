@@ -24,6 +24,7 @@ In the hyperparameter optimization as I get a better score by using models speci
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|num_bag_folds|num_bag_sets|num_stack_levels|models_hyperparameter_status|score|
+|--|--|--|--|--|--|
 |initial|0|20|0|default|1.79702|
 |add_features|0|20|0|default|0.57313|
 |hpo|10|30|2|custom|0.58625|
