@@ -4,4 +4,4 @@ In this study, a machine learning model was developed for predicting bike sharin
 
 For more information see: [Report](https://github.com/punkmic/Predict-Bike-Sharing-Demand-with-AutoGluon/blob/6ed5ddd78634034d93f74dd04a84678f550d1473/report-template.md)
 
-Notebook with code: [COLAB](https://github.com/punkmic/Predict-Bike-Sharing-Demand-with-AutoGluon/blob/master/project-template%20(2).ipynb)
+Notebook: [JupyterNotebook](https://github.com/punkmic/Predict-Bike-Sharing-Demand-with-AutoGluon/blob/master/project-template%20(2).ipynb)
